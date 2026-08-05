@@ -16,7 +16,7 @@ int main() {
     htmlFile << "<head>\n";
     htmlFile << "    <meta charset=\"UTF-8\">\n";
     htmlFile << "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n";
-    htmlFile << "    <title>Hello World</title>\n";
+    htmlFile << "    <title>Hello World!</title>\n";
     htmlFile << "    <style>\n";
     htmlFile << "        body {\n";
     htmlFile << "            font-family: Arial, sans-serif;\n";
@@ -35,7 +35,7 @@ int main() {
     htmlFile << "    </style>\n";
     htmlFile << "</head>\n";
     htmlFile << "<body>\n";
-    htmlFile << "    <h1>Hello World</h1>\n";
+    htmlFile << "    <h1>Hello World!</h1>\n";
     htmlFile << "</body>\n";
     htmlFile << "</html>\n";
     
